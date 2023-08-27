@@ -1,0 +1,13 @@
+/*Estilo para el carrito*/
+.container{
+    background-color: #f4b52b;
+}
+
+#carrito{
+    margin: 20px;
+}
+
+aside h2{
+    padding: 10px;
+    text-align: center;
+}
