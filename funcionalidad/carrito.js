@@ -33,7 +33,7 @@ venderían en la tienda. Son los productos que voy a mostrar en mi carrito de co
       id: 1,
       nombre: "Labial",
       precio: 50,
-      imagen: "../img/labial.jpg",
+      imagen: "img/labial.jpg",
     },
     {
       id: 2,
