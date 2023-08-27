@@ -33,37 +33,37 @@ venderían en la tienda. Son los productos que voy a mostrar en mi carrito de co
       id: 1,
       nombre: "Labial",
       precio: 50,
-      imagen: "img/labial.jpg",
+      imagen: "../../Actividad_Semana_04_Bam_2.0/labial.jpg",
     },
     {
       id: 2,
       nombre: "Delineador",
       precio: 28,
-      imagen: "../img/delineador.jfif",
+      imagen: "../../Actividad_Semana_04_Bam_2.0/delineador.jfif",
     },
     {
       id: 3,
       nombre: "Sombra",
       precio: 85,
-      imagen: "../img/sombraOjos.webp",
+      imagen: "../../Actividad_Semana_04_Bam_2.0/sombraOjos.webp",
     },
     {
       id: 4,
       nombre: "Rimel",
       precio: 150,
-      imagen: "../img/rimel.png",
+      imagen: "../../Actividad_Semana_04_Bam_2.0/rimel.png",
     },
     {
       id: 5,
       nombre: "Esmalte",
       precio: 30,
-      imagen: "../img/esmalte.png",
+      imagen: "../../Actividad_Semana_04_Bam_2.0/esmalte.png",
     },
     {
       id: 6,
       nombre: "Rubor",
       precio: 65,
-      imagen: "../img/rubor.webp",
+      imagen: "../../Actividad_Semana_04_Bam_2.0/rubor.webp",
     },
   ];
 
