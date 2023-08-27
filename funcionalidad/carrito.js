@@ -33,7 +33,7 @@ venderían en la tienda. Son los productos que voy a mostrar en mi carrito de co
       id: 1,
       nombre: "Labial",
       precio: 50,
-      imagen: "../../Actividad_Semana_04_Bam_2.0/labial.jpg",
+      imagen: "https://github.com/Ludmimar/Actividad_Semana_04_Bam_2.0/blob/main/img/labial.jpg?raw=true",
     },
     {
       id: 2,
