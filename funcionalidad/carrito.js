@@ -51,13 +51,13 @@ venderían en la tienda. Son los productos que voy a mostrar en mi carrito de co
       id: 4,
       nombre: "Rimel",
       precio: 150,
-      imagen: "https://github.com/Ludmimar/Actividad_Semana_04_Bam_2.0/blob/main/img/rimel.png",
+      imagen: "https://raw.githubusercontent.com/Ludmimar/Actividad_Semana_04_Bam_2.0/main/img/rimel.png",
     },
     {
       id: 5,
       nombre: "Esmalte",
       precio: 30,
-      imagen: "https://github.com/Ludmimar/Actividad_Semana_04_Bam_2.0/blob/main/img/esmalte.png",
+      imagen: "https://raw.githubusercontent.com/Ludmimar/Actividad_Semana_04_Bam_2.0/main/img/esmalte.png",
     },
     {
       id: 6,
