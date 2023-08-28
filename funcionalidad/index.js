@@ -15,7 +15,7 @@ Dentro de estas llaves coloco codigo html */
 ////https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML
 ////https://www.w3schools.com/jsref/prop_html_innerhtml.asp
 document.getElementById("idheader").innerHTML = ` 
-<img id="logo" src="../Kit_Tema_1/1-logo-negro.png" alt="Logo-Cabecera">
+<img id="logo" src="https://raw.githubusercontent.com/Ludmimar/Actividad_Semana_04_Bam_2.0/main/Kit_Tema_1/1-logo-negro.png" alt="Logo-Cabecera">
         <h1 class="titulo"> Beauty </h1>
 `
 document.getElementById("footer").innerHTML = `
