@@ -45,7 +45,7 @@ venderían en la tienda. Son los productos que voy a mostrar en mi carrito de co
       id: 3,
       nombre: "Sombra",
       precio: 85,
-      imagen: "https://github.com/Ludmimar/Actividad_Semana_04_Bam_2.0/blob/main/img/sombraOjos.webp",
+      imagen: "https://raw.githubusercontent.com/Ludmimar/Actividad_Semana_04_Bam_2.0/main/img/sombraOjos.webp",
     },
     {
       id: 4,
