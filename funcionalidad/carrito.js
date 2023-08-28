@@ -39,31 +39,31 @@ venderían en la tienda. Son los productos que voy a mostrar en mi carrito de co
       id: 2,
       nombre: "Delineador",
       precio: 28,
-      imagen: "../../Actividad_Semana_04_Bam_2.0/delineador.jfif",
+      imagen: "https://github.com/Ludmimar/Actividad_Semana_04_Bam_2.0/blob/main/img/delineador.jfif",
     },
     {
       id: 3,
       nombre: "Sombra",
       precio: 85,
-      imagen: "../../Actividad_Semana_04_Bam_2.0/sombraOjos.webp",
+      imagen: "https://github.com/Ludmimar/Actividad_Semana_04_Bam_2.0/blob/main/img/sombraOjos.webp",
     },
     {
       id: 4,
       nombre: "Rimel",
       precio: 150,
-      imagen: "../../Actividad_Semana_04_Bam_2.0/rimel.png",
+      imagen: "https://github.com/Ludmimar/Actividad_Semana_04_Bam_2.0/blob/main/img/rimel.png",
     },
     {
       id: 5,
       nombre: "Esmalte",
       precio: 30,
-      imagen: "../../Actividad_Semana_04_Bam_2.0/esmalte.png",
+      imagen: "https://github.com/Ludmimar/Actividad_Semana_04_Bam_2.0/blob/main/img/esmalte.png",
     },
     {
       id: 6,
       nombre: "Rubor",
       precio: 65,
-      imagen: "../../Actividad_Semana_04_Bam_2.0/rubor.webp",
+      imagen: "https://github.com/Ludmimar/Actividad_Semana_04_Bam_2.0/blob/main/img/rubor.webp",
     },
   ];
 
