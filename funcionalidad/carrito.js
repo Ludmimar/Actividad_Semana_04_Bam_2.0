@@ -39,7 +39,7 @@ venderían en la tienda. Son los productos que voy a mostrar en mi carrito de co
       id: 2,
       nombre: "Delineador",
       precio: 28,
-      imagen: "https://github.com/Ludmimar/Actividad_Semana_04_Bam_2.0/blob/main/img/delineador.jfif",
+      imagen: "https://raw.githubusercontent.com/Ludmimar/Actividad_Semana_04_Bam_2.0/main/img/delineador.jpg",
     },
     {
       id: 3,
@@ -63,7 +63,7 @@ venderían en la tienda. Son los productos que voy a mostrar en mi carrito de co
       id: 6,
       nombre: "Rubor",
       precio: 65,
-      imagen: "https://github.com/Ludmimar/Actividad_Semana_04_Bam_2.0/blob/main/img/rubor.webp",
+      imagen: "https://raw.githubusercontent.com/Ludmimar/Actividad_Semana_04_Bam_2.0/main/img/rubor.webp",
     },
   ];
 
