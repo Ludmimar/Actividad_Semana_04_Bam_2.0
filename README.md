@@ -26,7 +26,7 @@ El objetivo principal de este proyecto es desarrollar un sitio web moderno que p
 ## Tecnologías Utilizadas
 > HTML5: La estructura sólida del sitio estará construida con HTML semántico.
 
-> CSS3: Utilizaremos CSS moderno, aprovechando características como Flexbox y el framwqork Bootstrap.
+> CSS3: Utilizaremos CSS moderno, aprovechando características como Flexbox y el framework Bootstrap.
 
 > JavaScript: Agregaremos interactividad y dinamismo utilizando JavaScript.
 
