@@ -28,6 +28,6 @@ El objetivo principal de este proyecto es desarrollar un sitio web moderno que p
 
 > CSS3: Utilizaremos CSS moderno, aprovechando características como Flexbox y el framwqork Bootstrap.
 
-> JavaScript: Agregaremos interactividad y dinamismo utilizando JavaScript y posiblemente bibliotecas como React o Vue.js.
+> JavaScript: Agregaremos interactividad y dinamismo utilizando JavaScript.
 
 > Gestión de Versiones: GitHub será nuestra plataforma de elección para la colaboración y el control de versiones.
