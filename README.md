@@ -1,33 +1,71 @@
-### **Actividad_Semana_04_Bam_2.0 - Martos Ludmila Anahi**
-# Creando una pagina web con HTML, CSS y JS
+# Beauty Makeup - Página Web de Belleza
 
-### Bienvenidos al repositorio del proyecto "Beauty"! 
-En este emocionante viaje, te guiaré a través de la creación de un sitio web atractivo y funcional. Soy Ludmila, una apasionada programadora web frontend, y estoy emocionada de compartir con ustedes los detalles de este proyecto.
+## Descripción
+Beauty Makeup es una página web interactiva dedicada al cuidado personal y la belleza facial. Permite a los usuarios explorar servicios, tips de belleza y productos de maquillaje, con la posibilidad de agregar productos a un carrito de compras dinámico y visualizar el total de la compra.
 
-### Descripción del Proyecto
-El objetivo principal de este proyecto es desarrollar un sitio web moderno que proporcione a los usuarios una experiencia excepcional. El sitio estará centrado en presentar un sitio orientado a belleza facial, y se destacará por su diseño estético y su usabilidad intuitiva.
+El proyecto utiliza **HTML, CSS, JavaScript y Bootstrap**, y está diseñado para brindar una experiencia de usuario atractiva, moderna y responsive.
 
-### Características Clave
-1. Diseño Responsivo:
-   > Diseño Responsivo: El sitio estará diseñado para lucir increíble en una variedad de dispositivos, desde smartphones hasta pantallas de escritorio de alta resolución.
-   
-2. Interfaz Atractiva:
-   > Utilizaremos una interfaz visualmente atractiva que capture la atención de los usuarios.
-    
-3. Navegación Intuitiva:
-   > Diseñaremos una estructura de navegación lógica y fácil de usar, asegurando que los usuarios encuentren rápidamente lo que están buscando.
-    
-4. Carga Rápida:
-   > La optimización del rendimiento será una prioridad, garantizando tiempos de carga rápidos y una experiencia fluida.
+---
 
-5. Compatibilidad entre Navegadores:
-   > El sitio se verá y funcionará de manera consistente en una amplia gama de navegadores populares.
+## Características Principales
+
+1. **Secciones de la Página**
+   - **Inicio**: Presentación de la marca con imágenes y descripción.
+   - **Servicios**: Listado de servicios ofrecidos (perfilado de cejas, pestañas, maquillaje profesional, depilación y botox facial).
+   - **Tips de Belleza**: Carrusel con consejos y recomendaciones para el cuidado del rostro.
+   - **Carrito de Compras**: Visualización de productos de maquillaje, posibilidad de agregar al carrito, eliminar productos y calcular total.
+   - **Contacto**: Formulario de contacto con nombre y correo electrónico, además de links a redes sociales.
+
+2. **Carrito de Compras Dinámico**
+   - Renderiza productos desde un array de datos (`baseDeDatos`).
+   - Permite agregar productos haciendo clic en “Agregar +”.
+   - Muestra cantidad de productos y precio total.
+   - Permite eliminar productos individualmente o vaciar todo el carrito.
+   - Maneja productos repetidos incrementando la cantidad en lugar de duplicarlos.
+
+3. **Componentes Reutilizables**
+   - Header y Footer definidos con `innerHTML` para poder reutilizarlos en múltiples páginas.
+   - Uso de `document.addEventListener('DOMContentLoaded', ...)` para garantizar que los scripts se ejecuten después de cargar la página.
+
+4. **Diseño y Estilo**
+   - Uso de **Bootstrap 5** para diseño responsive.
+   - Tipografías personalizadas con **Daydream** y **Alike**.
+   - Carrusel de tips de belleza.
+   - Uso de iconos con **Boxicons**.
+
+---
 
 ## Tecnologías Utilizadas
-> HTML5: La estructura sólida del sitio estará construida con HTML semántico.
+- **HTML5** - Estructura de la página.
+- **CSS3** - Estilos personalizados.
+- **JavaScript** - Funcionalidad interactiva, carrito de compras.
+- **Bootstrap 5** - Diseño responsive y componentes UI.
+- **Boxicons** - Iconos para navegación y redes sociales.
 
-> CSS3: Utilizaremos CSS moderno, aprovechando características como Flexbox y el framework Bootstrap.
+---
 
-> JavaScript: Agregaremos interactividad y dinamismo utilizando JavaScript.
+## Instalación y Uso
 
-> Gestión de Versiones: GitHub será nuestra plataforma de elección para la colaboración y el control de versiones.
+
+Abrir el archivo index.html en un navegador moderno.
+
+Navegar por las secciones, explorar servicios, tips de belleza y productos.
+
+Agregar productos al carrito y verificar el total.
+
+Usar el formulario de contacto para enviar información de prueba.
+
+## Licencia
+
+Este proyecto está destinado a fines educativos y personales. No tiene licencia comercial.
+
+📌 Autor
+
+Martos Ludmila
+#### [Linkedin](https://www.linkedin.com/in/ludmimar89/)
+
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/Ludmimar/Actividad_Semana_04_Bam_2.0.git
+```
+
