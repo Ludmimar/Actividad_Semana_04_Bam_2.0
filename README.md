@@ -217,19 +217,6 @@ Este proyecto implementa múltiples conceptos fundamentales de JavaScript:
 
 ---
 
-## 🔮 Mejoras Futuras
-
-- [ ] Implementar localStorage para persistencia del carrito
-- [ ] Agregar sistema de categorías y filtros
-- [ ] Integrar API de pagos
-- [ ] Añadir sistema de búsqueda de productos
-- [ ] Implementar autenticación de usuarios
-- [ ] Agregar sistema de reseñas y calificaciones
-- [ ] Modo oscuro/claro
-- [ ] Internacionalización (multi-idioma)
-
----
-
 ## 📄 Licencia
 
 Este proyecto está destinado a **fines educativos y personales**. No tiene licencia comercial.
